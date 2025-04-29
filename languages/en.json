@@ -1,0 +1,69 @@
+{
+    "menu": {
+        "home": "Home",
+        "about": "About Me",
+        "technologies": "Technologies",
+        "experience": "Experience",
+        "projects": "Projects",
+        "soft-skills": "Soft Skills",
+        "contact": "Contact"
+    },
+    "home": {
+        "presentation": "Hello, I am <span class='sub-title-color nowrap'>Bruno Palombarini</span>",
+        "open-to-work": "Backend<br>Developer|",
+        "cv": "CV",
+        "contact": "Contact"
+    },
+    "about": {
+        "title": "From Technical Support to <span class='nowrap'>Backend Development</span>",
+        "p1": "I specialize in backend development with Java and Spring Boot, and have experience working with databases, REST APIs, and tools like Docker and Git. I am also exploring React and mobile development.",
+        "p2": "Now, I am looking for an opportunity in a dynamic company where I can apply and expand my skills, actively contributing to the growth and success of the team, with the intention of establishing a long-term employment relationship."
+    },
+    "technologies": {
+        "title": "Featured Technologies",
+        "tools": "Tools",
+        "learning": "Learning"
+    },
+    "experience": {
+        "title": "Experience",
+        "subtitle-1": "Professional",
+        "subtitle-2": "Academic",
+        "professional-1-title": "Freelance Developer – Online Art Gallery",
+        "professional-1-subtitle": "Freelance project · February 2025 [Argentina] [Web Development]",
+        "professional-1-p": "I developed a complete web platform for an art gallery, allowing artists to exhibit and manage their works online, and visitors to explore the catalog visually and intuitively.",
+        "professional-1-li-1": "Implemented the backend with Java Spring Boot, connecting to a PostgreSQL database to manage artists, works, categories, and events.",
+        "professional-1-li-2": "Designed a responsive frontend in HTML, CSS, and JavaScript, prioritizing a clean and elegant user experience.",
+        "professional-1-li-3": "Incorporated authentication for administrators and artists, with CRUD functionalities to securely manage content.",
+        "professional-1-li-4": "The project is currently online and in use, hosted on a server with Docker to facilitate deployment and maintenance.",
+        "academic-pretitle-1": "Professional Training Course",
+        "academic-1-title": "Full Stack Web Development",
+        "academic-1-subtitle": "2024 - Online",
+        "academic-1-p": "This course allowed me to acquire practical skills in frontend and backend technologies, including HTML, CSS, JavaScript, React, Node.js, and databases. I developed comprehensive projects applying good programming practices, version control, and web deployment.",
+        "academic-pretitle-2": "Information Systems Engineering",
+        "academic-2-title": "National Technological University (UTN)",
+        "academic-2-subtitle": "2020 - Present [Argentina]",
+        "academic-2-p": "Currently in my fourth year, I have gained knowledge in programming, databases, software engineering, networks, and project management. The program has provided me with a comprehensive technical and analytical education, applicable to developing real solutions."
+    },
+    "projects": {
+        "title": "Latest Projects",
+        "button-code": "CODE",
+        "project-1-title": "Online Art Gallery",
+        "project-1-p1": "I developed a web platform for an online art gallery that allows artists to exhibit their works and visitors to explore the catalog visually and intuitively.",
+        "project-1-p2": "The application features a backend in Java Spring Boot and a responsive frontend in HTML, CSS, and JavaScript, integrating content management functionalities, authentication, and deployment with Docker."
+    },
+    "soft-skills": {
+        "title": "Soft Skills",
+        "soft-skill-1-title": "Teamwork",
+        "soft-skill-1-p": "I have cultivated my teamwork skills through various collaborative experiences. Interacting with people from different perspectives has taught me the importance of clear communication, cooperation, and empathy in achieving common goals. These interactions have allowed me to effectively contribute to collective objectives and strengthen my interpersonal relationships.",
+        "soft-skill-2-title": "Resilience",
+        "soft-skill-2-p": "I have developed my resilience over time by facing difficult situations and overcoming adversities. Each challenge has taught me to stay calm, learn from experiences, and continue with determination. This process has strengthened me, allowing me to handle future obstacles with a more positive and focused mindset.",
+        "soft-skill-3-title": "Adaptability",
+        "soft-skill-3-p": "My adaptability has been shaped by exposure to different environments and changing circumstances. I have learned to quickly adjust my approaches and adapt to new situations, seeing change not as a threat, but as an opportunity for continuous growth and learning.",
+        "soft-skill-4-title": "Receptiveness to Criticism",
+        "soft-skill-4-p": "I have learned to receive constructive criticism by being in contexts where feedback is part of the improvement process. Over time, I have developed the ability to listen, reflect, and apply others' suggestions, using criticism as a valuable tool for personal and professional growth."
+    },
+    "footer": {
+        "developed": "Developed with <img src='assets/icons/favicon.svg' width='20px' alt='passion'><span style='color: transparent;'>BPI</span> by",
+        "code": "Code"
+    }
+}
