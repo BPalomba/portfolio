@@ -67,6 +67,9 @@ $(document).ready(function () {
 });
 
 document.addEventListener('DOMContentLoaded', function () {
+
+  changeLanguage('en');
+
   const sections = document.querySelectorAll('section[data-scroll-index]');
   const navItems = document.querySelectorAll('[data-scroll-nav]');
 
