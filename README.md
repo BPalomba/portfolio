@@ -8,4 +8,10 @@ I'm passionate about backend development and eager to keep growing in a professi
 
 <a href="https://bpportfolio-smoky.vercel.app/"> Click Me! </a>
 
+
+# Preview
+
+![Captura de pantalla 2025-05-01 122858](https://github.com/user-attachments/assets/95276082-54c4-409b-aab4-8f25b1946e14)
+
+
 ---
