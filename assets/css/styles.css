@@ -104,7 +104,9 @@ a:hover {
 
 .flags__item {
     width: 30px;
+    cursor: pointer;
 }
+
 
 .flags__img {
     cursor: pointer;
