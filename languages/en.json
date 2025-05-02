@@ -15,7 +15,7 @@
         "contact": "Contact"
     },
     "about": {
-        "title": "From Technical Support to <span class='nowrap'>Backend Development</span>",
+        "title": "About Me",
         "p1": "I specialize in backend development with Java and Spring Boot, and have experience working with databases, REST APIs, and tools like Docker and Git. I am also exploring React and mobile development.",
         "p2": "Now, I am looking for an opportunity in a dynamic company where I can apply and expand my skills, actively contributing to the growth and success of the team, with the intention of establishing a long-term employment relationship."
     },
